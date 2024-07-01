@@ -1,16 +1,17 @@
+
 const productsArray = [
     {
-        id: '1',
+        id: /*TODO Price code goes here -> */'',
         title: 'Coffee',
         price: 4.99
     },
     {
-        id: '2',
+        id: /*TODO Price code goes here -> */'',
         title: 'Sunglasses',
         price: 9.99
     },
     {
-        id: '3',
+        id: /*TODO Price code goes here -> */'',
         title: 'Camera',
         price: 39.99
     }
